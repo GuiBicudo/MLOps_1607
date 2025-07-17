@@ -1,0 +1,12 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "text"
+    ],
+    "data": [
+      [
+        "Esse produto \u00e9 \u00f3timo!"
+      ]
+    ]
+  }
+}

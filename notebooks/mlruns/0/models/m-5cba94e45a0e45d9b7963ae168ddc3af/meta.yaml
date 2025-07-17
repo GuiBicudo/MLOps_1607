@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/guilh/OneDrive/%C3%81rea%20de%20Trabalho/MLOPS_2806-main/notebooks/mlruns/0/models/m-5cba94e45a0e45d9b7963ae168ddc3af/artifacts
+creation_timestamp: 1752689681775
+experiment_id: '0'
+last_updated_timestamp: 1752689684613
+model_id: m-5cba94e45a0e45d9b7963ae168ddc3af
+model_type: null
+name: modelo_sentimento
+source_run_id: null
+status: 2
+status_message: null
